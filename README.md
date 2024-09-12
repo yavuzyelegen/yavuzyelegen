@@ -35,7 +35,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   </a>
-  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> 
   </a>
 </p>
