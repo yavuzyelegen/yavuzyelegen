@@ -36,6 +36,6 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   </a>
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> 
+    <img align="center" src="https://angularjs.org/img/AngularJS-large.png" alt="AngularJS" width="40" height="40"/> 
   </a>
 </p>
