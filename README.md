@@ -14,9 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <span>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-    </a>
+      <img href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+   
   </span>
   <span>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
