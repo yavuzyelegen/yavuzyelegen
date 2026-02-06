@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
     </a>
     <a href="https://portfolio-9nhe.vercel.app/#services" target="_blank">
-      <img src="https://static.vecteezy.com/system/resources/thumbnails/007/555/972/small/icon-portfolio-suitable-for-art-symbol-blue-eyes-style-simple-design-editable-design-template-simple-illustration-vector.jpg" alt="Portfolio" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/007/555/972/small/icon-portfolio-suitable-for-art-symbol-blue-eyes-style-simple-design-editable-design-template-simple-illustration-vector.jpg" alt="Portfolio" height="40" width="40" />
     </a>
   </span>
 </div>
