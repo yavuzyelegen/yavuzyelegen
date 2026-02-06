@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/yavuz-yele%C4%9Fen-155a0a293/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
     </a>
+    <a href="https://portfolio-9nhe.vercel.app/#services" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/686/686104.png" alt="Portfolio" height="30" width="40" />
+    </a>
   </span>
 </div>
 
